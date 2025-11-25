@@ -1,0 +1,8 @@
+{
+  "name": "Fractal Voyager",
+  "description": "Explore infinite fractal worlds using hand gestures. Powered by WebGL, MediaPipe, and Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
